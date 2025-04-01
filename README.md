@@ -22,7 +22,7 @@ $$f(t) = \frac{k}{\lambda} \left(\frac{t}{\lambda}\right)^{k-1} e^{-\left( \frac
 
 2. **Binomial Distribution**  
    - Defined over a discrete interval $[a, b]$, where $a$ and $b$ are real numbers representing the possible number of successes.  
-   - A discrete probability distribution that models the number of successes in $n$ independent trials, each with probability 4p$ of success.  
+   - A discrete probability distribution that models the number of successes in $n$ independent trials, each with probability $p$ of success.  
 
 3. **Poisson Distribution**  
    - Defined over the interval $[a, \infty)$, where $a$ is a real number.  
